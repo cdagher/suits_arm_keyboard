@@ -1,6 +1,6 @@
 if SHIELD_ARM_BOARD
 
 config ZMK_KEYBOARD_NAME
-    default "Suits Arm"
+    default "ARM Bar"
 
 endif
