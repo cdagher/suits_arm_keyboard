@@ -1,0 +1,8 @@
+file_forat: "1"
+id: arm_board
+name: Arm_Board
+type: shield
+url: https://github.com/cdagher/suits_arm_keyboard
+requires: [pro_micro]
+features:
+  - keys
